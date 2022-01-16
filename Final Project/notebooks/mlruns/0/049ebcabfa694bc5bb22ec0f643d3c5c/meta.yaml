@@ -1,0 +1,15 @@
+artifact_uri: ./mlruns/0/049ebcabfa694bc5bb22ec0f643d3c5c/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+name: ''
+run_id: 049ebcabfa694bc5bb22ec0f643d3c5c
+run_uuid: 049ebcabfa694bc5bb22ec0f643d3c5c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1642353553713
+status: 1
+tags: []
+user_id: studio-lab-user
